@@ -45,3 +45,6 @@ cd terminal_emulator
 
 ## Run the emulaor
 python main.py
+
+Check out the execution demo video of the project here:
+https://youtu.be/D0xqPlR0wYk
